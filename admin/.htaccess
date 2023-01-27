@@ -1,0 +1,18 @@
+
+RewriteEngine On
+#Giới thiệu và Liên hệ
+RewriteRule ^gioi-thieu.html$ index.php?mod=page&controller=index&action=detail&id=1
+RewriteRule ^lien-he.html$ index.php?mod=page&controller=index&action=detail&id=2
+
+#Điện thoại
+RewriteRule ^dien-thoai.html$ index.php?mod=product&controller=index&action=index&id=1
+#    -----Chi tiết sản phẩm của điện thoại
+    RewriteRule ^dien-thoai/([a-zA-Z0-9_-]+)-([0-9]+).html$ index.php?mod=product&controller=index&action=detail&id=$2
+#Macbook
+RewriteRule ^macbook.html$ index.php?mod=product&controller=index&action=index&id=2
+    #    -----Chi tiết sản phẩm của macbook
+    RewriteRule ^macbook/([a-zA-Z0-9_-]+)-([0-9]+).html$ index.php?mod=product&controller=index&action=detail&id=$2
+#Giỏ hàng
+RewriteRule ^gio-hang.html$ index.php?mod=cart&controller=index&action=show
+
+

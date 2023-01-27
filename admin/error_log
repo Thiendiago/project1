@@ -1,0 +1,16 @@
+[05-Oct-2019 00:37:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function construct() in /home/huuthang97/public_html/admin/core/base.php on line 77
+[05-Oct-2019 00:37:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function construct() in /home/huuthang97/public_html/admin/core/base.php on line 77
+[05-Oct-2019 00:37:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function construct() in /home/huuthang97/public_html/admin/core/base.php on line 77
+[05-Oct-2019 00:38:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function construct() in /home/huuthang97/public_html/admin/core/base.php on line 77
+[07-Oct-2019 15:26:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function forgetPassAction() in /home/huuthang97/public_html/project/backend/admin/core/base.php on line 77
+[07-Oct-2019 15:26:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function forgetPassAction() in /home/huuthang97/public_html/project/backend/admin/core/base.php on line 77
+[07-Oct-2019 15:27:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function forgetPassAction() in /home/huuthang97/public_html/project/backend/admin/core/base.php on line 77
+[07-Oct-2019 15:28:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function regAction() in /home/huuthang97/public_html/project/backend/admin/core/base.php on line 77
+[07-Oct-2019 15:28:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function rejkAction() in /home/huuthang97/public_html/project/backend/admin/core/base.php on line 77
+[07-Oct-2019 15:28:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function regAction() in /home/huuthang97/public_html/project/backend/admin/core/base.php on line 77
+[07-Oct-2019 15:44:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function forgetPassAction() in /home/huuthang97/public_html/project/backend/admin/core/base.php on line 77
+[07-Oct-2019 15:44:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function forgetPassAction() in /home/huuthang97/public_html/project/backend/admin/core/base.php on line 77
+[07-Oct-2019 18:47:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function loginAction() in /home/huuthang97/public_html/project/backend/admin/core/base.php on line 77
+[07-Oct-2019 18:47:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function loginAction() in /home/huuthang97/public_html/project/backend/admin/core/base.php on line 77
+[07-Oct-2019 18:48:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function loginAction() in /home/huuthang97/public_html/project/backend/admin/core/base.php on line 77
+[07-Oct-2019 18:48:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function loginAction() in /home/huuthang97/public_html/project/backend/admin/core/base.php on line 77
