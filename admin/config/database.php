@@ -16,10 +16,10 @@
  */
 
 $db = array(
-    'hostname' => 'localhost',
-    'username' => 'root',
-    'password' => '',
-    'database' => 'project',
+    'hostname' => 'us-cdbr-east-06.cleardb.net',
+    'username' => 'bf52aa5d22b615',
+    'password' => 'b8af7e6c',
+    'database' => 'heroku_db81752ff511a26',
 );
 
 
