@@ -13,7 +13,7 @@ ob_start();
  * 
  */
 
-$config['base_url'] = "http://localhost/banhang/";
+$config['base_url'] = "https://project1-app.herokuapp.com/";
 
 
 $config['default_module'] = 'home';
