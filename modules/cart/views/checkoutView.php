@@ -30,12 +30,12 @@
                     <div class="form-row clearfix">
                         <div class="form-col fl-left">
                             <label for="fullname">Họ tên</label>
-                            <input type="text" name="fullname" id="fullname" value="<?php echo set_value('fullname')?>" placeholder="Nguyễn Hữu Thắng">
+                            <input type="text" name="fullname" id="fullname" value="<?php echo set_value('fullname')?>" placeholder="vo cao thien">
                             <?php echo form_error('fullname')?>
                         </div>
                         <div class="form-col fl-right">
                             <label for="email">Email</label>
-                            <input type="email" name="email" id="email" value="<?php echo set_value('email')?>" placeholder="huuthangk49hce@gmail.com">
+                            <input type="email" name="email" id="email" value="<?php echo set_value('email')?>" placeholder="thiencaovo1996@gmail.com">
                             <?php echo form_error('email')?>
                         </div>
                     </div>
