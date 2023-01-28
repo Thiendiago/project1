@@ -16,7 +16,7 @@ session_start();
  * 
  */
 
-$config['base_url'] = "https://project1-app.herokuapp.com//admin/";
+$config['base_url'] = "https://project1-app.herokuapp.com/admin/";
 
 
 $config['default_module'] = 'home';
